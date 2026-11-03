@@ -1,0 +1,6 @@
+Open City - Made by Ayushdev
+
+Third-party assets and libraries
+- three.js r147 (MIT) - https://threejs.org
+- Soldier, Michelle, readyplayer.me sample models from the three.js examples (three.js repository, example assets)
+- Kenney Starter Kit City Builder and Starter Kit Racing models (CC0 / MIT) - https://kenney.nl
